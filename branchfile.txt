@@ -1,5 +1,5 @@
-This is a branch file which I will merge with master in master
+This is a branch file
 Thanks
 Ashutosh Kamal
 Edit file
-Edit from GIT
+Edit from GI
