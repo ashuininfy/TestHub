@@ -6,4 +6,4 @@ Edit file
 Edit from GI
 =======
 Edit from GIT Bash
->>>>>>> ashuininfy-patch-1
+
