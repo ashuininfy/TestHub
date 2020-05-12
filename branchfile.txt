@@ -2,8 +2,5 @@ This is a branch file
 Thanks
 Ashutosh Kamal
 Edit file
-<<<<<<< HEAD
-Edit from GI
-=======
 Edit from GIT Bash
 
